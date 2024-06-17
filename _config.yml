@@ -13,7 +13,7 @@ page_excerpts: true
 
 collections_dir: Content
 collections:
-  fabric:
+  Fabric:
     output: true
-  arc-enabled-sql:
+  Arc-Enabled-SQL-Server:
     output: true
