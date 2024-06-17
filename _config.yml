@@ -14,5 +14,5 @@ collections_dir: Content
 collections:
   fabric:
     output: true
-  arc_enabled_sql:
+  arc-enabled-sql:
     output: true
