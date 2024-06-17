@@ -1,4 +1,7 @@
-# All about Arc Enabled SQL Server
+---
+layout: page
+title: All about Arc Enabled SQL Server
+---
 
 ## Arc Enabled SQL Server benefits
 <video width="100%" controls>
