@@ -12,6 +12,7 @@ layout: base
         <h2>{{ collection.label | replace: "-", " " | capitalize}}</h2>
         {% for item in site[collection.label] %}
             <br><a href="{{ item.url }}">{{ item.title }}</a>
+            <p>{{ item.excerpt }}</p>
         {% endfor %}
     {% endif %}
   {% endfor %}

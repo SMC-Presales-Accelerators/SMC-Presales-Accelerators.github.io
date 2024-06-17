@@ -9,6 +9,7 @@ header_pages:
 minima:
   skin: auto
 
+page_excerpts: true
 
 collections_dir: Content
 collections:
