@@ -8,3 +8,11 @@ header_pages:
 
 minima:
   skin: auto
+
+
+collections_dir: Content
+collections:
+  fabric:
+    output: true
+  arc_enabled_sql:
+    output: true
