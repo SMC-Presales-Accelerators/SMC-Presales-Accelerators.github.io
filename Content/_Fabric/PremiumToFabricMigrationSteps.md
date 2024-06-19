@@ -5,7 +5,7 @@ title: Migrate your Power BI Workspace into Microsoft Fabric Capacity
 This is a step by step guide walking you through moving your Power BI Workspace from being backed by a Premium capacity to a Fabric Capacity.
 
 1.  Log into your Powerbi dashboard - [Power
-    BI](https://msit.powerbi.com/home?experience=power-bi)
+    BI](https://app.powerbi.com/home?experience=power-bi)
 
     1.  Click settings \> navigate to **Admin Portal**
 
