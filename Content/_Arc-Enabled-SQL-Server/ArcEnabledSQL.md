@@ -7,7 +7,7 @@ This article will guide you through the benefits of Arc Enabled SQL Server in yo
 
 ## Arc Enabled SQL Server benefits
 <video width="100%" controls>
-<source src="https://media.githubusercontent.com/media/SMC-Presales-Accelerators/SMC-Presales-Accelerators.github.io/main/Content/arc-enabled-sql/Arc%20Sql%20Benefits.mp4" type="video/mp4">
+<source src="https://media.githubusercontent.com/media/SMC-Presales-Accelerators/SMC-Presales-Accelerators.github.io/main/Content/_Arc-Enabled-SQL-Server/Arc%20Sql%20Benefits.mp4" type="video/mp4">
  Your browser does not support the video tag.
 </video>
 
