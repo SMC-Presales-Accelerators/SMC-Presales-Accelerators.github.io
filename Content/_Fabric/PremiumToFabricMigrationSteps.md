@@ -1,7 +1,6 @@
 ---
 layout: page
-title: Migrate your Power BI Workspace into Microsoft
-Fabric Capacity
+title: Migrate your Power BI Workspace into Microsoft Fabric Capacity
 ---
 This is a step by step guide walking you through moving your Power BI Workspace from being backed by a Premium capacity to a Fabric Capacity.
 
