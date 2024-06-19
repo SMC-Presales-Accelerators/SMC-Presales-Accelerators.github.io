@@ -38,7 +38,7 @@ To buy a reservation:
 ## Overview of migration to Microsoft Fabric capacity ##
 
 1.  Access your Power BI dashboard - [Power
-    BI](https://msit.powerbi.com/home?experience=power-bi)
+    BI](https://app.powerbi.com/home?experience=power-bi)
 
     1.  Navigate to the settings \> navigate to **Admin Portal**
 
