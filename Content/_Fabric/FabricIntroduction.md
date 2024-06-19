@@ -14,10 +14,10 @@ This recording includes an overview of Microsoft Fabric as well as an end-to-end
 
 ## Helpful Links
 ### Next Steps
-- Explore the product here: https://aka.ms/try-fabric 
-- Get your questions answered in the Microsoft Fabric webinar series: https://aka.ms/fabric-webinar-series 
-- See the latest announcements in the Microsoft Fabric blog site: https://aka.ms/fabric-tech-blog 
-- Read the free eBook: Getting started with Fabric​: https://aka.ms/fabric-get-started-ebook 
+- Explore the product [here!](https://aka.ms/try-fabric)
+- Get your questions answered in the [Microsoft Fabric webinar series](https://aka.ms/fabric-webinar-series) 
+- See the latest announcements in the [Microsoft Fabric blog site](https://aka.ms/fabric-tech-blog)
+- Read the free eBook: [Getting started with Fabric​](https://aka.ms/fabric-get-started-ebook)
 
 ### End to End Tutorials
 - [Lakehouse tutorial](https://learn.microsoft.com/en-us/fabric/data-engineering/tutorial-lakehouse-introduction)
