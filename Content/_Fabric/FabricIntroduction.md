@@ -11,6 +11,7 @@ This recording includes an overview of Microsoft Fabric as well as an end-to-end
 <source src="https://media.githubusercontent.com/media/SMC-Presales-Accelerators/SMC-Presales-Accelerators.github.io/main/Content/_Fabric/FabricWebinarCustomersRemoved.mp4" type="video/mp4">
  Your browser does not support the video tag.
 </video>
+Download the powerpoint presentation from the webinar [here](SMC-Presales-Accelerators/SMC-Presales-Accelerators.github.io/Content/_Fabric/Microsoft Fabric Customer Webinar.pptx)
 
 ## Helpful Links
 ### Next Steps
