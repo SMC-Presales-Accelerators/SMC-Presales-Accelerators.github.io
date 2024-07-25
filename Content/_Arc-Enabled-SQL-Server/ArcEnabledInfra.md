@@ -10,7 +10,7 @@ See the video below for a recording of a webinar where we overview and demonstra
 
 ## Arc Enabled Infrastructure Webinar
 <video width="100%" controls>
-<source src="https://media.githubusercontent.com/media/SMC-Presales-Accelerators/SMC-Presales-Accelerators.github.io/main/Content/_Arc-Enabled-SQL-Server/ArcEnabledInfrastructureWebinarCustomerRemoved1080.mp4" type="video/mp4">
+<source src="https://media.githubusercontent.com/media/SMC-Presales-Accelerators/SMC-Presales-Accelerators.github.io/main/Content/_Arc-Enabled-SQL-Server/ArcEnabledInfra720.mp4" type="video/mp4">
  Your browser does not support the video tag.
 </video>
 
